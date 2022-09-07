@@ -1,8 +1,8 @@
 <h1 align="center">
-  Dart Practice
+  My Portfolio
 </h1>
 <p align="center">
-This project is basically for practicing purpose of Dart Programming language .
+This project is basically is for My Portfolio, thia Project is made by Flutter and dart programming languge, It hase mobile app version also windows app .
 </p>
 <p align="center">
 <a href="https://github.com/Rakib00111/github-profile-readme-generator/blob/master/LICENSE" target="blank">
@@ -27,12 +27,11 @@ This project is basically for practicing purpose of Dart Programming language .
 ## Requirements 
 
 - Any Operating System (MacOS, Linux, Windows)
-- IntelIJ IDE with Dart SDK installed (IntelIJ, Dart sdk)
+- IntelIJ, Android IDE IDE with Dart SDK installed (IntelIJ, android studio or VsCode, Dart sdk)
 - A little knowledge of dart or any other programming languages 
 
 ## Auther
 Rakib_khan  khanrakib218@gmail.com
 
 ![](https://github.com/Rakib00111/rakib00111.github.io/blob/main/potfolio.jpg)
-![](https://github.com/Rakib00111/rakib00111.github.io/blob/main/portfolio_light.jpg)
-![](https://github.com/Rakib00111/rakib00111.github.io/blob/main/portfolio_dark.jpg)
+
